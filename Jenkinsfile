@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "imranvisualpath/vproappdock"
+        registry = "sharagon1/vprofile-app"
         registryCredential = 'dockerhub'
     }
 
